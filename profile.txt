@@ -1,4 +1,6 @@
 name : Bushra
 course : Btech
 Goal : Become a strong develpoer
+skills : c, git, problem solving
+
 
